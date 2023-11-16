@@ -1,0 +1,6 @@
+print("Tere tulemast! ")
+kool = input("Mis kool sa opid?: ")
+kursus = int(input("Mis kursusel?: "))
+print ("Tere tulemast kooli " + kool.upper() + "\nOle hea " + str(kursus), ". kuursuse opilaseks!")
+print("Tere tulemast kooli " + kool.upper() + "\nOle hea ", kursus, ". kuursuse opilaseks!")
+print("Tere tulemast kooli {0}\nOle hea {1}. kuursuse opilaseks!".format(kool,kursus))
