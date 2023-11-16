@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>548f30c2-94d6-4c1e-8859-7db496c4c0fb</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Ülesanne Funktsioonide print(),input(), float(), int() kasutamine.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
