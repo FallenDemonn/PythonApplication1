@@ -8,13 +8,13 @@
 #print(type(kool));
 #print(type(kursus));
 
-#arv1 = float(input("Arv 1: "));
-#arv2 = float(input("Arv 2: "));
-#print("{0} + {1} = {2}".format(arv1, arv2, arv1 + arv2))
-#print("{0} - {1} = {2}".format(arv1, arv2, arv1 - arv2))
-#print("{0} * {1} = {2}".format(arv1, arv2, arv1 * arv2))
-#print("{0} / {1} = {2}".format(arv1, arv2, arv1 / arv2))
-#print("{0} % {1} = {2}".format(arv1, arv2, arv1 % arv2))
-#print("{0} ** {1} = {2}".format(arv1, arv2, arv1 ** arv2))
-#print("{0} // {1} = {2}".format(arv1, arv2, arv1 // arv2))
+arv1 = float(input("Arv 1: "))
+arv2 = float(input("Arv 2: "))
+print("{0} + {1} = {2}".format(arv1, arv2, arv1 + arv2))
+print("{0} - {1} = {2}".format(arv1, arv2, arv1 - arv2))
+print("{0} * {1} = {2}".format(arv1, arv2, arv1 * arv2))
+print("{0} / {1} = {2}".format(arv1, arv2, arv1 / arv2))
+print("{0} % {1} = {2}".format(arv1, arv2, arv1 % arv2))
+print("{0} ** {1} = {2}".format(arv1, arv2, arv1 ** arv2))
+print("{0} // {1} = {2}".format(arv1, arv2, arv1 // arv2))
 
